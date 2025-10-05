@@ -1,4 +1,4 @@
-pip install seaborn
+python -m pip install seaborn
 
 
 
@@ -141,3 +141,4 @@ Ensure your dataset is preprocessed before uploading.
 - Remove unnecessary columns.  
 
 """)
+
