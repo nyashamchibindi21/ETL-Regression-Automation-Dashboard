@@ -1,5 +1,4 @@
-python -m pip install seaborn
-
+pip install -r requirements.txt
 
 
 import streamlit as st
@@ -141,4 +140,5 @@ Ensure your dataset is preprocessed before uploading.
 - Remove unnecessary columns.  
 
 """)
+
 
