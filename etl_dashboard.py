@@ -1,6 +1,3 @@
-pip install -r requirements.txt
-
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -140,5 +137,6 @@ Ensure your dataset is preprocessed before uploading.
 - Remove unnecessary columns.  
 
 """)
+
 
 
