@@ -3,6 +3,6 @@ pandas
 numpy
 seaborn
 matplotlib
-pickle
-sklearn
+scikit-learn
 shap
+
