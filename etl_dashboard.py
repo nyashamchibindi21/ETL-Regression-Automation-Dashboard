@@ -1,3 +1,7 @@
+pip install seaborn
+
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -135,4 +139,5 @@ Ensure your dataset is preprocessed before uploading.
 - Handle missing values.  
 - Encode categorical variables.  
 - Remove unnecessary columns.  
+
 """)
